@@ -4,7 +4,7 @@
 # Originally written by https://github.com/dylanaraps
 # Maintained fork by Alexia Michelle <alexiarstein@aol.com>
 
-version=8.0.1
+version="8.0.1 - Alexia's Fork"
 
 # Fallback to a value of '5' for shells which support bash
 # but do not set the 'BASH_' shell variables (osh).
